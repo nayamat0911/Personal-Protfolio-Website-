@@ -99,6 +99,9 @@ section {
     float: left;
     margin-left: 10%;
 }
+.name_part span{
+    color: #ff0000;
+}
 
 .name_part p {
     color: #fafafa;
